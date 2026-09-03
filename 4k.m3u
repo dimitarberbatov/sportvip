@@ -1,0 +1,83 @@
+#EXTM3U
+
+# ===== KHU VỰC PHÁP (FRANCE) =====
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553679.png" group-title="SPORTS",FR - CANAL+ MOTOGP 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553679&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553680.png" group-title="SPORTS",FR - CANAL+ LIGUE 1 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553680&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553681.png" group-title="SPORTS",FR - CANAL+ SPORT 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553681&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553682.png" group-title="SPORTS",FR - RMC SPORT 1 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553682&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553683.png" group-title="SPORTS",FR - RMC SPORT 2 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553683&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553684.png" group-title="SPORTS",FR - BEIN SPORTS 1 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553684&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553685.png" group-title="SPORTS",FR - BEIN SPORTS 2 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553685&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553686.png" group-title="SPORTS",FR - BEIN SPORTS 3 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=553686&extension=ts
+
+# ===== KHU VỰC Ả RẬP (BEIN SPORTS AFC) =====
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066883.png" group-title="SPORTS",BEIN SPORTS AFC HD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066883&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066882.png" group-title="SPORTS",BEIN SPORTS AFC SD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066882&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066881.png" group-title="SPORTS",BEIN SPORTS AFC 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066881&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066880.png" group-title="SPORTS",BEIN SPORTS AFC 1 HD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066880&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066879.png" group-title="SPORTS",BEIN SPORTS AFC 1 SD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066879&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066878.png" group-title="SPORTS",BEIN SPORTS AFC 1 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066878&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066877.png" group-title="SPORTS",BEIN SPORTS AFC 2 HD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066877&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066876.png" group-title="SPORTS",BEIN SPORTS AFC 2 SD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066876&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066875.png" group-title="SPORTS",BEIN SPORTS AFC 2 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066875&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066874.png" group-title="SPORTS",BEIN SPORTS AFC 3 HD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066874&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066873.png" group-title="SPORTS",BEIN SPORTS AFC 3 SD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066873&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-3.png" group-title="SPORTS",BEIN SPORTS AFC 3 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066872&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="SPORTS",BEIN SPORTS AFC 4 HD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066871&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="SPORTS",BEIN SPORTS AFC 4 SD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066870&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="SPORTS",BEIN SPORTS AFC 4 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066869&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="SPORTS",BEIN SPORTS AFC 5 HD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066868&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="SPORTS",BEIN SPORTS AFC 5 SD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066867&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="SPORTS",BEIN SPORTS AFC 5 4K
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:F9:9F:D9&stream=1066866&extension=ts
+
+# ===== KHU VỰC HÀ LAN (NETHERLANDS) =====
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="|NL| ESPN 1 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS",|NL| ESPN 1 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580801
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="|NL| ESPN 2 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS",|NL| ESPN 2 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="|NL| ESPN 3 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS",|NL| ESPN 3 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="|NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="SPORTS",|NL| ESPN 4 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="|NL| ZIGGO SPORT 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORT.png" group-title="SPORTS",|NL| ZIGGO SPORT 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580805
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="|NL| ZIGGO SPORT 2 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTVOETBAL.png" group-title="SPORTS",|NL| ZIGGO SPORT 2 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580807
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="|NL| ZIGGO SPORT 3 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTGOLF.png" group-title="SPORTS",|NL| ZIGGO SPORT 3 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580811
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="|NL| ZIGGO SPORT 4 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTRACING.png" group-title="SPORTS",|NL| ZIGGO SPORT 4 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580808
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="|NL| ZIGGO SPORT 5 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTDOCU.png" group-title="SPORTS",|NL| ZIGGO SPORT 5 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTTENNIS.png" group-title="SPORTS",|NL| ZIGGO SPORT 6 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
+#EXTINF:-1 tvg-id="eurosport1.nl" tvg-name="|NL| EUROSPORT 1 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" group-title="SPORTS",|NL| EUROSPORT 1 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580812
+#EXTINF:-1 tvg-id="eurosport2.nl" tvg-name="|NL| EUROSPORT 2 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT2.png" group-title="SPORTS",|NL| EUROSPORT 2 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580813
