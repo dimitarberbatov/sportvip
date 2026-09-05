@@ -202,35 +202,8 @@ http://31.43.191.125:8080/restream/restream/6617
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2" tvg-logo="https://docdog.top/logo/countries/arab/beinsportsxtra.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS XTRA 2
 http://31.43.191.125:8080/restream/restream/6618
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 1
-http://31.43.191.125:8080/restream/restream/1679
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/1680
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 4
-http://31.43.191.125:8080/restream/restream/1681
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 7
-http://31.43.191.125:8080/restream/restream/1682
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 1" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports 1
-http://31.43.191.125:8080/restream/restream/146818
-#EXTINF:-1 tvg-id="" tvg-name="Uk: Bein Sports 1 PL" tvg-logo="" group-title="⚽ beIN SPORTS UK",Uk: Bein Sports 1 PL
-http://31.43.191.125:8080/restream/restream/146808
-#EXTINF:-1 tvg-id="" tvg-name="Uk: Bein Sports 2" tvg-logo="" group-title="⚽ beIN SPORTS UK",Uk: Bein Sports 2
-http://31.43.191.125:8080/restream/restream/146807
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports English 2
-http://31.43.191.125:8080/restream/restream/147047
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 3" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports 3
-http://31.43.191.125:8080/restream/restream/146819
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports USA" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports USA
-http://31.43.191.125:8080/restream/restream/147048
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports Extra Ñ" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports Extra Ñ
-http://31.43.191.125:8080/restream/restream/146628
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS UK",UK - BEIN SPORTS 1 ENGLISH HD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348325
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS UK",UK - BEIN SPORTS 2 ENGLISH HD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/575400
-
 # ==========================================
-# GROUP: SKY SPORTS & UK SPORTS (Chia gọn theo nhóm)
+# GROUP: SKY SPORTS & UK SPORTS
 # ==========================================
 
 #EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Football",Sky Sports Football HD 50 UK
