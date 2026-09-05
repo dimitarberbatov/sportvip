@@ -2214,7 +2214,12 @@ http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15448/index.m3u8
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/32000/index.m3u8
 
 =============================
-
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🌐 International Sports",VIP - HK NOW SPORTS EPL 4K
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1301200
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🌐 International Sports",UK - NOW HK NOW SPORTS 4K 617
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🌐 International Sports",UK - NOW HK NOW SPORTS 4K 616
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
 #EXTINF:0 tvg-rec="0" group-title="🌐 International Sports",Megogo Спорт HD
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31612/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="🌐 International Sports",Sport 3 HD UA
