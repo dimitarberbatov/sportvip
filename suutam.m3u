@@ -1627,8 +1627,8 @@ http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31821/index.m3u8
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31860/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="🇪🇸 Spain Sports",M+ Liga de Campeones 4 HD ES
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31864/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇮🇹 Italy Sports",Rai Sport HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19106/index.m3u8
+
+
 #EXTINF:0 tvg-rec="3" group-title="🇫🇷 France Sports",Canal+ Sport HD FR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2502/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="🇫🇷 France Sports",RMC Sport 1 HD FR
@@ -2666,15 +2666,4 @@ http://31.43.191.125:8080/restream/restream/128994
 http://31.43.191.125:8080/restream/restream/128995
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 6" tvg-logo="" group-title="🌐 International Sports",NL: ZIGGO SPORT 6
 http://31.43.191.125:8080/restream/restream/128996
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT+" tvg-logo="" group-title="🌐 International Sports",IT: RAI SPORT+
-http://31.43.191.125:8080/restream/restream/136470
-#EXTINF:-1 tvg-id="" tvg-name="IT: SPORT ITALIA FHD" tvg-logo="" group-title="🌐 International Sports",IT: SPORT ITALIA FHD
-http://31.43.191.125:8080/restream/restream/136500
-#EXTINF:-1 tvg-id="" tvg-name="IT: SPORT ITALIA LIVE 24 HD" tvg-logo="" group-title="🌐 International Sports",IT: SPORT ITALIA LIVE 24 HD
-http://31.43.191.125:8080/restream/restream/136502
-#EXTINF:-1 tvg-id="" tvg-name="IT: SPORT ITALIA PLUS FHD" tvg-logo="" group-title="🌐 International Sports",IT: SPORT ITALIA PLUS FHD
-http://31.43.191.125:8080/restream/restream/136503
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP EIR SPORT 1" tvg-logo="https://docdog.top/logo/countries/uk/eir-sport-1-uk.png" group-title="🌐 International Sports",UK: VIP EIR SPORT 1
-http://31.43.191.125:8080/restream/restream/1685
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP EIR SPORT 2" tvg-logo="https://docdog.top/logo/countries/uk/eir-sport-2-uk.png" group-title="🌐 International Sports",UK: VIP EIR SPORT 2
-http://31.43.191.125:8080/restream/restream/1686
+
