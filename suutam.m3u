@@ -1,628 +1,422 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports Max 1 FHD TR
+
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS TR",beIN Sports Max 1 FHD TR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19062/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports Haber HD TR
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS TR",beIN Sports Haber HD TR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19064/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 1 HD QA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6123/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 3 HD QA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6124/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 4 HD QA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6125/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 5 HD QA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6126/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 6 HD QA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6127/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 7 HD QA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6128/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports CA
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/32043/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports En Español HD US
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/30015/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports US
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31048/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 4 US
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31051/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 5 US
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31052/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 6 US
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31053/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS",beIN Sports 7 US
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31054/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 1 HD TR
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS TR",beIN Sports 1 HD TR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6781/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 2 HD TR
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS TR",beIN Sports 2 HD TR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6818/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 3 HD TR
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS TR",beIN Sports 3 HD TR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6821/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 4 HD TR
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS TR",beIN Sports 4 HD TR
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6823/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 1 HD FR
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2499/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 2 HD FR
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2500/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS",beIN Sports 3 HD FR
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2501/index.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORTS 1
-http://31.43.191.125:8080/restream/restream/373
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/374
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORTS 3
-http://31.43.191.125:8080/restream/restream/375
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 4
-http://31.43.191.125:8080/restream/restream/376
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 5
-http://31.43.191.125:8080/restream/restream/377
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 6
-http://31.43.191.125:8080/restream/restream/378
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 7
-http://31.43.191.125:8080/restream/restream/379
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 8
-http://31.43.191.125:8080/restream/restream/380
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 9
-http://31.43.191.125:8080/restream/restream/381
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="⚽ beIN SPORTS",FR: BEIN SPORT MAX 10
-http://31.43.191.125:8080/restream/restream/382
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 1
-http://31.43.191.125:8080/restream/restream/841
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/842
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 3
-http://31.43.191.125:8080/restream/restream/843
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 4
-http://31.43.191.125:8080/restream/restream/844
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 5
-http://31.43.191.125:8080/restream/restream/845
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 6
-http://31.43.191.125:8080/restream/restream/846
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 7
-http://31.43.191.125:8080/restream/restream/847
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS PREMIUM 1
-http://31.43.191.125:8080/restream/restream/853
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS PREMIUM 2
-http://31.43.191.125:8080/restream/restream/854
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS PREMIUM 3
-http://31.43.191.125:8080/restream/restream/855
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/restream/restream/835
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/restream/restream/836
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/restream/restream/837
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS MAX 4
-http://31.43.191.125:8080/restream/restream/838
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS MAX 6
-http://31.43.191.125:8080/restream/restream/840
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS ENG 1
-http://31.43.191.125:8080/restream/restream/848
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS ENG 2
-http://31.43.191.125:8080/restream/restream/849
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS ENG 3
-http://31.43.191.125:8080/restream/restream/850
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS NBA
-http://31.43.191.125:8080/restream/restream/851
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS NEWS
-http://31.43.191.125:8080/restream/restream/852
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS XTRA 1
-http://31.43.191.125:8080/restream/restream/856
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8" tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 8
-http://31.43.191.125:8080/restream/restream/132370
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9" tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS 9
-http://31.43.191.125:8080/restream/restream/132371
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS",UK: VIP BEIN SPORTS 1
-http://31.43.191.125:8080/restream/restream/1679
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS",UK: VIP BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/1680
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS",UK: VIP BEIN SPORTS 4
-http://31.43.191.125:8080/restream/restream/1681
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS",UK: VIP BEIN SPORTS 7
-http://31.43.191.125:8080/restream/restream/1682
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 1" tvg-logo="" group-title="⚽ beIN SPORTS",UK: Bein Sports 1
-http://31.43.191.125:8080/restream/restream/146818
-#EXTINF:-1 tvg-id="" tvg-name="Uk: Bein Sports 1 PL" tvg-logo="" group-title="⚽ beIN SPORTS",Uk: Bein Sports 1 PL
-http://31.43.191.125:8080/restream/restream/146808
-#EXTINF:-1 tvg-id="" tvg-name="Uk: Bein Sports 2" tvg-logo="" group-title="⚽ beIN SPORTS",Uk: Bein Sports 2
-http://31.43.191.125:8080/restream/restream/146807
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="⚽ beIN SPORTS",UK: Bein Sports English 2
-http://31.43.191.125:8080/restream/restream/147047
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 3" tvg-logo="" group-title="⚽ beIN SPORTS",UK: Bein Sports 3
-http://31.43.191.125:8080/restream/restream/146819
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports USA" tvg-logo="" group-title="⚽ beIN SPORTS",UK: Bein Sports USA
-http://31.43.191.125:8080/restream/restream/147048
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports Extra Ñ" tvg-logo="" group-title="⚽ beIN SPORTS",UK: Bein Sports Extra Ñ
-http://31.43.191.125:8080/restream/restream/146628
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD*" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS 1 HD*
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD*" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS 1 HD*
 http://31.43.191.125:8080/restream/restream/141359
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS 1 FHD
 http://31.43.191.125:8080/restream/restream/141360
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS 2 FHD
 http://31.43.191.125:8080/restream/restream/141362
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS 3 FHD
 http://31.43.191.125:8080/restream/restream/141364
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS 4 FHD
 http://31.43.191.125:8080/restream/restream/141366
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS 5 HD
 http://31.43.191.125:8080/restream/restream/141368
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER FHD" tvg-logo="https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS HABER FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER FHD" tvg-logo="https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS HABER FHD
 http://31.43.191.125:8080/restream/restream/141370
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax1.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS MAX 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax1.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS MAX 1 FHD
 http://31.43.191.125:8080/restream/restream/141372
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax2.png" group-title="⚽ beIN SPORTS",TR: BEIN SPORTS MAX 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax2.png" group-title="⚽ beIN SPORTS TR",TR: BEIN SPORTS MAX 2 FHD
 http://31.43.191.125:8080/restream/restream/141374
-#EXTINF:-1 tvg-id="" tvg-name="CA: BEIN SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/beinsports.png" group-title="⚽ beIN SPORTS",CA: BEIN SPORTS
+
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS QA",beIN Sports 1 HD QA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6123/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS QA",beIN Sports 3 HD QA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6124/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS QA",beIN Sports 4 HD QA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6125/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS QA",beIN Sports 5 HD QA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6126/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS QA",beIN Sports 6 HD QA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6127/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS QA",beIN Sports 7 HD QA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6128/index.m3u8
+
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS CA",beIN Sports CA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/32043/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: BEIN SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/beinsports.png" group-title="⚽ beIN SPORTS CA",CA: BEIN SPORTS
 http://31.43.191.125:8080/restream/restream/5405
-#EXTINF:-1 tvg-id="" tvg-name="CA: VIP BEIN SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/beinsports.png" group-title="⚽ beIN SPORTS",CA: VIP BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="CA: VIP BEIN SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/beinsports.png" group-title="⚽ beIN SPORTS CA",CA: VIP BEIN SPORTS
 http://31.43.191.125:8080/restream/restream/5529
-#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS" tvg-logo="" group-title="⚽ beIN SPORTS",USA: BEIN SPORTS
-http://31.43.191.125:8080/restream/restream/154700
-#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS 4" tvg-logo="" group-title="⚽ beIN SPORTS",USA: BEIN SPORTS 4
-http://31.43.191.125:8080/restream/restream/154701
-#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS CONNECT" tvg-logo="" group-title="⚽ beIN SPORTS",USA: BEIN SPORTS CONNECT
-http://31.43.191.125:8080/restream/restream/154702
-#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS CONNECT 4" tvg-logo="" group-title="⚽ beIN SPORTS",USA: BEIN SPORTS CONNECT 4
-http://31.43.191.125:8080/restream/restream/154703
-#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS CONNECT 8" tvg-logo="" group-title="⚽ beIN SPORTS",USA: BEIN SPORTS CONNECT 8
-http://31.43.191.125:8080/restream/restream/154704
-#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS LA LIGA" tvg-logo="" group-title="⚽ beIN SPORTS",USA: BEIN SPORTS LA LIGA
-http://31.43.191.125:8080/restream/restream/154705
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC" tvg-logo="" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS AFC
-http://31.43.191.125:8080/restream/restream/6614
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC 1" tvg-logo="https://docdog.top/logo/countries/arab/beinsports.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS AFC 1
-http://31.43.191.125:8080/restream/restream/6615
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC 2" tvg-logo="" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS AFC 2
-http://31.43.191.125:8080/restream/restream/6616
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC 3" tvg-logo="https://docdog.top/logo/countries/arab/beinsports1.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS AFC 3
-http://31.43.191.125:8080/restream/restream/6617
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2" tvg-logo="https://docdog.top/logo/countries/arab/beinsportsxtra.png" group-title="⚽ beIN SPORTS",AR: BEIN SPORTS XTRA 2
-http://31.43.191.125:8080/restream/restream/6618
-#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 1" tvg-logo="https:/docdog.top/logo/countries/beinsports1.png" group-title="⚽ beIN SPORTS",AU: BEIN SPORTS 1
-http://31.43.191.125:8080/restream/restream/25009
-#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 2" tvg-logo="https:/docdog.top/logo/countries/beinsports2.png" group-title="⚽ beIN SPORTS",AU: BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/25024
-#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 3" tvg-logo="https:/docdog.top/logo/countries/beinsports3.png" group-title="⚽ beIN SPORTS",AU: BEIN SPORTS 3
-http://31.43.191.125:8080/restream/restream/25025
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BEIN SPORT 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="⚽ beIN SPORTS",IDS: BEIN SPORT 2 VIP
-http://31.43.191.125:8080/restream/restream/34337
-#EXTINF:-1 tvg-id="" tvg-name="MY: BEIN SPORTS" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports.png" group-title="⚽ beIN SPORTS",MY: BEIN SPORTS
-http://31.43.191.125:8080/restream/restream/34610
-#EXTINF:-1 tvg-id="" tvg-name="MY: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports.png" group-title="⚽ beIN SPORTS",MY: BEIN SPORTS 3
-http://31.43.191.125:8080/restream/restream/34632
-#EXTINF:-1 tvg-id="" tvg-name="MY: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports.png" group-title="⚽ beIN SPORTS",MY: BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/34648
-#EXTINF:-1 tvg-id="" tvg-name="MY: beinsport 3" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports3.png" group-title="⚽ beIN SPORTS",MY: beinsport 3
-http://31.43.191.125:8080/restream/restream/34677
-#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 3 VIP" tvg-logo="https://docdog.top/logo/countries/philippines/beinsports3.png" group-title="⚽ beIN SPORTS",PH: BEIN SPORTS 3 VIP
-http://31.43.191.125:8080/restream/restream/34734
-#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/philippines/beinsports1.png" group-title="⚽ beIN SPORTS",PH: BEIN SPORTS 1 VIP
-http://31.43.191.125:8080/restream/restream/34735
-#EXTINF:-1 audio-track="rus" group-title="⚽ beIN SPORTS", Bein Sport Xtra
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/beIN%20SPORTS%201.png" group-title="⚽ beIN SPORTS",beIN SPORTS 1
-http://rocketfx.uk:8080/live/henry/henry/c7aa1e67-9f79-4603-b35d-68ad6a4a0c0c.ts
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/beIN%20SPORTS%202.png" group-title="⚽ beIN SPORTS",beIN SPORTS 2
-http://rocketfx.uk:8080/live/henry/henry/b94f6ff4-fbd0-40c8-8d6a-df639b30ddab.ts
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/beIN%20SPORTS%203.png" group-title="⚽ beIN SPORTS",beIN SPORTS 3
-http://rocketfx.uk:8080/live/henry/henry/1f405b24-186d-482e-9d34-202438799abf.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Bein Sports Xtra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",LATINO - BEIN SPORTS XTRA N
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/983887
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",CA -  BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS CA",CA -  BEIN SPORTS HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/673514
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BEIN SPORTS XTRA HD
+
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS US",beIN Sports En Español HD US
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/30015/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS US",beIN Sports US
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31048/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS US",beIN Sports 4 US
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31051/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS US",beIN Sports 5 US
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31052/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS US",beIN Sports 6 US
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31053/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="⚽ beIN SPORTS US",beIN Sports 7 US
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31054/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS" tvg-logo="" group-title="⚽ beIN SPORTS US",USA: BEIN SPORTS
+http://31.43.191.125:8080/restream/restream/154700
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS 4" tvg-logo="" group-title="⚽ beIN SPORTS US",USA: BEIN SPORTS 4
+http://31.43.191.125:8080/restream/restream/154701
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS CONNECT" tvg-logo="" group-title="⚽ beIN SPORTS US",USA: BEIN SPORTS CONNECT
+http://31.43.191.125:8080/restream/restream/154702
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS CONNECT 4" tvg-logo="" group-title="⚽ beIN SPORTS US",USA: BEIN SPORTS CONNECT 4
+http://31.43.191.125:8080/restream/restream/154703
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS CONNECT 8" tvg-logo="" group-title="⚽ beIN SPORTS US",USA: BEIN SPORTS CONNECT 8
+http://31.43.191.125:8080/restream/restream/154704
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS LA LIGA" tvg-logo="" group-title="⚽ beIN SPORTS US",USA: BEIN SPORTS LA LIGA
+http://31.43.191.125:8080/restream/restream/154705
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BEIN SPORTS XTRA HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/364666
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72383
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS LALIGA UHD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS LALIGA UHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72390
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS EN ESPANOL HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS EN ESPANOL HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72382
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS 4 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS 4 HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72388
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS 5 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS 5 HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72387
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS 6 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS 6 HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72386
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS 7 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS 7 HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72385
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",US - BeIN SPORTS 8 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS US",US - BeIN SPORTS 8 HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/72384
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.7s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS 8K #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/27903
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS NEWS 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552065
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS GLOBAL 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552066
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/977115
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 2 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986959
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 3 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552069
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 4 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986961
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 5 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986962
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 6 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552075
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 7 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986964
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 8 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552077
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 9 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986966
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS XTRA 8K #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1306293
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/551262
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 2 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/551251
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 3 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/551250
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 4 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418514
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 5 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418511
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 6 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/334070
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 7 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/334069
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 8 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/334057
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS XTRA 9 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/334040
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS ENGLISH 8K #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1306295
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS ENGLISH 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552082
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS ENGLISH 2 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552083
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS AFC 8K #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1306294
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS FM #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/207574
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS XTRA FM #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1306288
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 1 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552079
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 2 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552080
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_3.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 3 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/552081
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 4 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1150949
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 5 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1150950
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 6 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1150951
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 7 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1150952
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 8 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1150953
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 9 XTRA 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1150954
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",EN - BEIN SPORTS 1 ENGLISH 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986970
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",EN - BEIN SPORTS 2 ENGLISH 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986971
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### AR - BEIN SPORTS FRENCH FM #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1306291
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 1 FRENCH 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/334054
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS 2 FRENCH 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/334055
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",##### BEIN SPORTS AFC FM #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1306289
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS AFC 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/576808
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AR - BEIN SPORTS AFC 2 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/576857
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AU - BEIN SPORTS 1 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78137
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AU - BEIN SPORTS 2 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78138
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",AU - BEIN SPORTS 3 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS 1 FHD
+
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS FR",beIN Sports 1 HD FR
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2499/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS FR",beIN Sports 2 HD FR
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2500/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="⚽ beIN SPORTS FR",beIN Sports 3 HD FR
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2501/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORTS 1
+http://31.43.191.125:8080/restream/restream/373
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/374
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/375
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 4
+http://31.43.191.125:8080/restream/restream/376
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 5
+http://31.43.191.125:8080/restream/restream/377
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 6
+http://31.43.191.125:8080/restream/restream/378
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 7
+http://31.43.191.125:8080/restream/restream/379
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 8
+http://31.43.191.125:8080/restream/restream/380
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 9
+http://31.43.191.125:8080/restream/restream/381
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="⚽ beIN SPORTS FR",FR: BEIN SPORT MAX 10
+http://31.43.191.125:8080/restream/restream/382
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS 1 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/56655
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS 2 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/56654
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS 2 FHD²
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS 2 FHD²
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/157012
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS 3 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/56653
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 4 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 4 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/62502
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 5 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 5 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/62501
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 6 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 6 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/62500
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 7 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 7 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/62499
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 8 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 8 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/62498
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_9.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 9 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_9.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 9 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/62497
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_10.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",FR - BEIN SPORTS MAX 10 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_10.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS FR",FR - BEIN SPORTS MAX 10 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211992
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",UK - BEIN SPORTS 1 ENGLISH HD
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 1
+http://31.43.191.125:8080/restream/restream/841
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/842
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/843
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 4
+http://31.43.191.125:8080/restream/restream/844
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 5
+http://31.43.191.125:8080/restream/restream/845
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 6
+http://31.43.191.125:8080/restream/restream/846
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 7
+http://31.43.191.125:8080/restream/restream/847
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS PREMIUM 1
+http://31.43.191.125:8080/restream/restream/853
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS PREMIUM 2
+http://31.43.191.125:8080/restream/restream/854
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS PREMIUM 3
+http://31.43.191.125:8080/restream/restream/855
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS MAX 1
+http://31.43.191.125:8080/restream/restream/835
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS MAX 2
+http://31.43.191.125:8080/restream/restream/836
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS MAX 3
+http://31.43.191.125:8080/restream/restream/837
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS MAX 4
+http://31.43.191.125:8080/restream/restream/838
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS MAX 6
+http://31.43.191.125:8080/restream/restream/840
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS ENG 1
+http://31.43.191.125:8080/restream/restream/848
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS ENG 2
+http://31.43.191.125:8080/restream/restream/849
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS ENG 3
+http://31.43.191.125:8080/restream/restream/850
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS NBA
+http://31.43.191.125:8080/restream/restream/851
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS NEWS
+http://31.43.191.125:8080/restream/restream/852
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS XTRA 1
+http://31.43.191.125:8080/restream/restream/856
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8" tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 8
+http://31.43.191.125:8080/restream/restream/132370
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9" tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS 9
+http://31.43.191.125:8080/restream/restream/132371
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC" tvg-logo="" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS AFC
+http://31.43.191.125:8080/restream/restream/6614
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC 1" tvg-logo="https://docdog.top/logo/countries/arab/beinsports.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS AFC 1
+http://31.43.191.125:8080/restream/restream/6615
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC 2" tvg-logo="" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS AFC 2
+http://31.43.191.125:8080/restream/restream/6616
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS AFC 3" tvg-logo="https://docdog.top/logo/countries/arab/beinsports1.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS AFC 3
+http://31.43.191.125:8080/restream/restream/6617
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2" tvg-logo="https://docdog.top/logo/countries/arab/beinsportsxtra.png" group-title="⚽ beIN SPORTS AR",AR: BEIN SPORTS XTRA 2
+http://31.43.191.125:8080/restream/restream/6618
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 1
+http://31.43.191.125:8080/restream/restream/1679
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/1680
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 4
+http://31.43.191.125:8080/restream/restream/1681
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="⚽ beIN SPORTS UK",UK: VIP BEIN SPORTS 7
+http://31.43.191.125:8080/restream/restream/1682
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 1" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports 1
+http://31.43.191.125:8080/restream/restream/146818
+#EXTINF:-1 tvg-id="" tvg-name="Uk: Bein Sports 1 PL" tvg-logo="" group-title="⚽ beIN SPORTS UK",Uk: Bein Sports 1 PL
+http://31.43.191.125:8080/restream/restream/146808
+#EXTINF:-1 tvg-id="" tvg-name="Uk: Bein Sports 2" tvg-logo="" group-title="⚽ beIN SPORTS UK",Uk: Bein Sports 2
+http://31.43.191.125:8080/restream/restream/146807
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports English 2" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports English 2
+http://31.43.191.125:8080/restream/restream/147047
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports 3" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports 3
+http://31.43.191.125:8080/restream/restream/146819
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports USA" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports USA
+http://31.43.191.125:8080/restream/restream/147048
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bein Sports Extra Ñ" tvg-logo="" group-title="⚽ beIN SPORTS UK",UK: Bein Sports Extra Ñ
+http://31.43.191.125:8080/restream/restream/146628
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS UK",UK - BEIN SPORTS 1 ENGLISH HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348325
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS",UK - BEIN SPORTS 2 ENGLISH HD
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS UK",UK - BEIN SPORTS 2 ENGLISH HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/575400
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Tennis HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6546/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports F1 HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9283/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Racing HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9335/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports+ HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9248/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports News HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9314/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Main Event HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9308/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Football HD 50 UK
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 1" tvg-logo="https:/docdog.top/logo/countries/beinsports1.png" group-title="⚽ beIN SPORTS AU",AU: BEIN SPORTS 1
+http://31.43.191.125:8080/restream/restream/25009
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 2" tvg-logo="https:/docdog.top/logo/countries/beinsports2.png" group-title="⚽ beIN SPORTS AU",AU: BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/25024
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 3" tvg-logo="https:/docdog.top/logo/countries/beinsports3.png" group-title="⚽ beIN SPORTS AU",AU: BEIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/25025
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS AU",AU - BEIN SPORTS 1 UHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78137
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS AU",AU - BEIN SPORTS 2 UHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78138
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS AU",AU - BEIN SPORTS 3 UHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: BEIN SPORT 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="⚽ beIN SPORTS ID",IDS: BEIN SPORT 2 VIP
+http://31.43.191.125:8080/restream/restream/34337
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 3 VIP" tvg-logo="https://docdog.top/logo/countries/philippines/beinsports3.png" group-title="⚽ beIN SPORTS PH",PH: BEIN SPORTS 3 VIP
+http://31.43.191.125:8080/restream/restream/34734
+#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/philippines/beinsports1.png" group-title="⚽ beIN SPORTS PH",PH: BEIN SPORTS 1 VIP
+http://31.43.191.125:8080/restream/restream/34735
+
+# ==========================================
+# GROUP: SKY SPORTS & UK SPORTS (Chia gọn theo nhóm)
+# ==========================================
+
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Football",Sky Sports Football HD 50 UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9289/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Cricket HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9258/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Premier League HD 50 UK
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Football",Sky Sports Premier League HD 50 UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9334/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Action HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9155/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Mix HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9310/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports",Sky Sports Golf HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9293/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Premier League HD UK
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Football",Sky Sports Premier League HD UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7335/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Football HD UK
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Football",Sky Sports Football HD UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7336/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Main Event HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7337/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Mix HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7339/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Action HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7340/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Racing HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7341/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports F1 HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7342/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Cricket HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7343/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports",Sky Sports Golf HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7344/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS F1
-http://31.43.191.125:8080/restream/restream/1668
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS GOLF" tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS GOLF
-http://31.43.191.125:8080/restream/restream/1669
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MIX" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS MIX
-http://31.43.191.125:8080/restream/restream/1670
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS FOOTBALL" tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS FOOTBALL" tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="🏆 Sky Sports Football",UK: VIP SKY SPORTS FOOTBALL
 http://31.43.191.125:8080/restream/restream/1671
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-premier-league-uk.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-premier-league-uk.png" group-title="🏆 Sky Sports Football",UK: VIP SKY SPORTS PREMIER LEAGUE
 http://31.43.191.125:8080/restream/restream/1672
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS CRICKET" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS CRICKET
-http://31.43.191.125:8080/restream/restream/1673
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ARENA" tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS ARENA
-http://31.43.191.125:8080/restream/restream/1674
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS ACTION
-http://31.43.191.125:8080/restream/restream/1675
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS RACING
-http://31.43.191.125:8080/restream/restream/1676
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MAIN EVENT" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS MAIN EVENT
-http://31.43.191.125:8080/restream/restream/1677
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP Sky Sports NFL" tvg-logo="" group-title="🏆 Sky Sports",UK: VIP Sky Sports NFL
-http://31.43.191.125:8080/restream/restream/1678
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/uk/skysportsnews.png" group-title="🏆 Sky Sports",UK: VIP SKY SPORTS NEWS
-http://31.43.191.125:8080/restream/restream/1696
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Action FHD
-http://31.43.191.125:8080/restream/restream/146467
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Arena FHD
-http://31.43.191.125:8080/restream/restream/146468
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Tennis FHD
-http://31.43.191.125:8080/restream/restream/146469
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports F1 FHD
-http://31.43.191.125:8080/restream/restream/146470
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Golf FHD
-http://31.43.191.125:8080/restream/restream/146471
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Premier League FHD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="" group-title="🏆 Sky Sports Football",UK: Sky Sports Premier League FHD
 http://31.43.191.125:8080/restream/restream/146472
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Football FHD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="🏆 Sky Sports Football",UK: Sky Sports Football FHD
 http://31.43.191.125:8080/restream/restream/146473
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Cricket FHD
-http://31.43.191.125:8080/restream/restream/146474
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Main Event FHD
-http://31.43.191.125:8080/restream/restream/146475
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Racing FHD
-http://31.43.191.125:8080/restream/restream/146476
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports Mix FHD
-http://31.43.191.125:8080/restream/restream/146477
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports News FHD
-http://31.43.191.125:8080/restream/restream/146486
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports+ FHD
-http://31.43.191.125:8080/restream/restream/146466
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HQ HD" tvg-logo="" group-title="🏆 Sky Sports",UK: Sky Sports News HQ HD
-http://31.43.191.125:8080/restream/restream/147024
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ULTRA 1 4K (Event Only)" tvg-logo="" group-title="🏆 Sky Sports",UK: SKY SPORTS ULTRA 1 4K (Event Only)
-http://31.43.191.125:8080/restream/restream/146593
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ULTRA 2 4K (Event Only)" tvg-logo="" group-title="🏆 Sky Sports",UK: SKY SPORTS ULTRA 2 4K (Event Only)
-http://31.43.191.125:8080/restream/restream/146592
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",|4K| SKY SPORTS UHD [EVENT]
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284558&extension=ts&play_token=MPQzgSfdk1
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",|4K| SKY SPORTS 1 UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284557&extension=ts&play_token=D9C6C3Ovig
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",|4K| SKY SPORTS 2 UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284556&extension=ts&play_token=uj6UCSet9J
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",|4K| SKY SPORTS F1 UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284555&extension=ts&play_token=fUl319g17I
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",|4K| SKY SPORTS DARTS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284554&extension=ts&play_token=4jTWwFwM4O
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS MAIN EVENTS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577997&extension=ts&play_token=LVvfKbOefG
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS PL UHD
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Football",UK - SKY SPORTS PL UHD
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577996&extension=ts&play_token=eEJPpYEb0E
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS FOOTBALL UHD
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Football",UK - SKY SPORTS FOOTBALL UHD
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577995&extension=ts&play_token=LeP2SXOvX3
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS NEWS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577994&extension=ts&play_token=pMt9JNiRn8
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS CRICKET UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577991&extension=ts&play_token=y2o6GyaOuF
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS MAIN EVENT FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577978&extension=ts&play_token=JCujxj0RE7
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS DARTS FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577972&extension=ts&play_token=dP42AJxl2E
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS GOLF FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577971&extension=ts&play_token=ckhdw2Cb4m
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS MIX FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577970&extension=ts&play_token=8cXoQ9cDys
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS RACING FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577968&extension=ts&play_token=3svkuTdXHG
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS ARENA
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577944&extension=ts&play_token=zRxRIxHC3V
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="4.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",SBO 3: SKY SPORTS BOX OFFICE SD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=677309&extension=ts&play_token=tZBDCJzMDQ
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",F1 - SKY SPORTS F1
+
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports F1",Sky Sports F1 HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9283/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports F1",Sky Sports F1 HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7342/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="🏆 Sky Sports F1",UK: VIP SKY SPORTS F1
+http://31.43.191.125:8080/restream/restream/1668
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="" group-title="🏆 Sky Sports F1",UK: Sky Sports F1 FHD
+http://31.43.191.125:8080/restream/restream/146470
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",|4K| SKY SPORTS F1 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284555&extension=ts&play_token=fUl319g17I
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",F1 - SKY SPORTS F1
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134458&extension=ts&play_token=VkoVflhsUg
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",F1 - SKY SPORTS FORMULA 1 HD IT
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",F1 - SKY SPORTS FORMULA 1 HD IT
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134462&extension=ts&play_token=QDPh4r7ogD
-#EXTINF:-1 tvg-logo="https://go4.pw/FORMULA/ff1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### F1 - SKY SPORTS F1 #####
+#EXTINF:-1 tvg-logo="https://go4.pw/FORMULA/ff1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",##### F1 - SKY SPORTS F1 #####
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ FHD ◉
+
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Main Event",Sky Sports Main Event HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9308/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Main Event",Sky Sports Main Event HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7337/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MAIN EVENT" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="🏆 Sky Sports Main Event",UK: VIP SKY SPORTS MAIN EVENT
+http://31.43.191.125:8080/restream/restream/1677
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="" group-title="🏆 Sky Sports Main Event",UK: Sky Sports Main Event FHD
+http://31.43.191.125:8080/restream/restream/146475
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Main Event",UK - SKY SPORTS MAIN EVENTS UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577997&extension=ts&play_token=LVvfKbOefG
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Main Event",UK - SKY SPORTS MAIN EVENT FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577978&extension=ts&play_token=JCujxj0RE7
+
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Plus",Sky Sports+ HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9248/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="🏆 Sky Sports Plus",UK: Sky Sports+ FHD
+http://31.43.191.125:8080/restream/restream/146466
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ FHD ◉
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ HD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973139
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 1 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 1 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974989
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 3 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 3 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974991
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 4 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 4 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974992
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 5 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 5 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974993
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 6 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 6 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974994
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 7 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 7 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974995
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 8 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 8 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974996
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 9 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 9 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974997
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 10 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 10 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974998
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 11 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 11 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974999
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.8s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 12 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.8s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 12 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975000
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 13 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 13 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975001
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 14 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 14 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975002
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 15 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975003
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="4.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 17 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975005
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 19 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975007
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 22 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975010
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 23 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975011
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 24 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975012
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 27 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975015
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.8s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 28 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975016
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 29 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975017
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 30 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975018
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 31 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975019
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 32 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975020
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 33 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975021
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 34 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975022
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 35 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975023
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="4.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 36 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975024
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 37 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975025
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 38 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975026
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 39 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975027
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS+ 40 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975028
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",VIP - SKY SPORTS MAIN EVENT 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1281430
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",VIP - SKY SPORTS 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1281426
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",VIP - SKY SPORTS 2 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1281427
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",VIP - SKY SPORTS F1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1281428
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/CRICKET.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",VIP - SKY SPORTS CRICKET FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404520
-#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### IT - SKY SPORTS #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1135344
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS PREMIER LEAGUE #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356564
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS PREMIER LEAGUE UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1015489
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS PREMIER LEAGUE FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17285
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS F1  #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356568
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyf1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS F1 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980431
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/SKYF1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS F1 FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1015492
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS NEWS FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348323
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS NEWS HEVC²
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980403
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS NEWS HD²
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17283
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS MAIN EVENT #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356565
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyamainevent.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS MAIN EVENT FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17286
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS FOOTBALL  #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356566
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS FOOTBALL FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS FOOTBALL HD²
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/365035
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS TENNIS  #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356567
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skysportste.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS TENNIS FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664451
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skysportste.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS TENNIS HD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664452
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS RACING #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356569
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyracingg.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS RACING FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/304708
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS CRICKET  #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356570
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/CRICKET.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS CRICKET FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17290
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK -  SKY SPORTS GOLF  #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356571
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skygolff.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS GOLF FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17287
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS ARENA #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356573
-#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS ARENA FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17291
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS MIX #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356574
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skymix.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",UK - SKY SPORTS MIX FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17284
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports",##### UK - SKY SPORTS ACTION #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356563
+
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Tennis HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6546/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Racing HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9335/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports News HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9314/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Cricket HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9258/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Action HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9155/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Mix HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9310/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Golf HD 50 UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9293/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Mix HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7339/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Action HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7340/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Racing HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7341/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Cricket HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7343/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Golf HD UK
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7344/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS GOLF" tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS GOLF
+http://31.43.191.125:8080/restream/restream/1669
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MIX" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS MIX
+http://31.43.191.125:8080/restream/restream/1670
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS CRICKET" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS CRICKET
+http://31.43.191.125:8080/restream/restream/1673
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ARENA" tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS ARENA
+http://31.43.191.125:8080/restream/restream/1674
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS ACTION
+http://31.43.191.125:8080/restream/restream/1675
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS RACING
+http://31.43.191.125:8080/restream/restream/1676
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP Sky Sports NFL" tvg-logo="" group-title="🏆 Sky Sports Other",UK: VIP Sky Sports NFL
+http://31.43.191.125:8080/restream/restream/1678
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/uk/skysportsnews.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS NEWS
+http://31.43.191.125:8080/restream/restream/1696
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Action FHD
+http://31.43.191.125:8080/restream/restream/146467
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Arena FHD
+http://31.43.191.125:8080/restream/restream/146468
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Tennis FHD
+http://31.43.191.125:8080/restream/restream/146469
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Golf FHD
+http://31.43.191.125:8080/restream/restream/146471
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Cricket FHD
+http://31.43.191.125:8080/restream/restream/146474
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Racing FHD
+http://31.43.191.125:8080/restream/restream/146476
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Mix FHD
+http://31.43.191.125:8080/restream/restream/146477
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports News FHD
+http://31.43.191.125:8080/restream/restream/146486
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HQ HD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports News HQ HD
+http://31.43.191.125:8080/restream/restream/147024
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",|4K| SKY SPORTS DARTS UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284554&extension=ts&play_token=4jTWwFwM4O
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS NEWS UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577994&extension=ts&play_token=pMt9JNiRn8
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS CRICKET UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577991&extension=ts&play_token=y2o6GyaOuF
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS DARTS FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577972&extension=ts&play_token=dP42AJxl2E
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS GOLF FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577971&extension=ts&play_token=ckhdw2Cb4m
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS MIX FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577970&extension=ts&play_token=8cXoQ9cDys
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS RACING FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577968&extension=ts&play_token=3svkuTdXHG
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS ARENA
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577944&extension=ts&play_token=zRxRIxHC3V
+#EXTINF:-1 tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="4.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",SBO 3: SKY SPORTS BOX OFFICE SD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=677309&extension=ts&play_token=tZBDCJzMDQ
+
 #EXTINF:0 tvg-rec="0" group-title="🏆 TNT Sports",TNT Sports 4 HD UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19054/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="🏆 TNT Sports",TNT Sports 1 FHD UK
@@ -1725,346 +1519,6 @@ http://87.246.54.249:8080/Eurosport2/index.m3u8
 http://boxviptv.com:25461/Roma0675/31865526/211
 #EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 ʜᴅ" tvg-logo="http://epg.one/img/4313.png" group-title="🌍 Eurosport",EUROSPORT 2 ʜᴅ
 http://boxviptv.com:25461/Roma0675/31865526/216
-#EXTINF:0 tvg-rec="7" group-title="🇬🇧 UK Sports",Sky Sport F1 FHD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/10079/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 24 HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19127/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Arena HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19128/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Golf HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19132/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport MotoGP HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19133/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Premier Sports 2 HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2069/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Premier Sports 1 HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2160/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Premier Sports 1 HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6555/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport Mix HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/5039/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport Golf HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/5043/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport Premier League HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/5042/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport News HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2477/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport 1 FHD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2478/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport 2 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2479/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 1 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2480/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport Austria 1 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2492/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🇬🇧 UK Sports",Sky Sport Austria 2 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6113/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 2 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7234/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 3 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7235/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 5 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7237/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 6 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7238/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 7 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7239/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 8 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7240/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Bundesliga 9 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7241/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Top Event HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19003/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 3 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19030/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 4 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19031/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 5 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19032/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 6 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19033/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 7 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19034/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 8 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19035/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 9 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19036/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport 10 HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19037/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport UHD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19044/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Tennis HD DE
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/32013/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport Calcio HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19113/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🇬🇧 UK Sports",Sky Sport F1 HD IT
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19105/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 1 720P
-http://31.43.191.125:8080/restream/restream/134774
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 2 720P
-http://31.43.191.125:8080/restream/restream/134775
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 3 720P
-http://31.43.191.125:8080/restream/restream/134776
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 4 720P
-http://31.43.191.125:8080/restream/restream/134777
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 5 720P
-http://31.43.191.125:8080/restream/restream/134778
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 6 720P
-http://31.43.191.125:8080/restream/restream/134779
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 7 720P
-http://31.43.191.125:8080/restream/restream/134780
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 720P
-http://31.43.191.125:8080/restream/restream/134781
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 8 720P
-http://31.43.191.125:8080/restream/restream/134782
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 9 720P
-http://31.43.191.125:8080/restream/restream/134783
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 10 720P
-http://31.43.191.125:8080/restream/restream/134784
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 1
-http://31.43.191.125:8080/restream/restream/134786
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 2
-http://31.43.191.125:8080/restream/restream/134787
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 3
-http://31.43.191.125:8080/restream/restream/134788
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 4
-http://31.43.191.125:8080/restream/restream/134789
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 5
-http://31.43.191.125:8080/restream/restream/134790
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 6
-http://31.43.191.125:8080/restream/restream/134791
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 7
-http://31.43.191.125:8080/restream/restream/134792
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 8
-http://31.43.191.125:8080/restream/restream/134793
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 9
-http://31.43.191.125:8080/restream/restream/134794
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT BUNDESLIGA 10
-http://31.43.191.125:8080/restream/restream/134795
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_F1_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT F1  720P
-http://31.43.191.125:8080/restream/restream/135341
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT GOLF  720P
-http://31.43.191.125:8080/restream/restream/135342
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_MIX_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT MIX  720P
-http://31.43.191.125:8080/restream/restream/135343
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_NEWS_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT NEWS  720P
-http://31.43.191.125:8080/restream/restream/135344
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_PREMIER_LEAGUE_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT PREMIER LEAGUE  720P
-http://31.43.191.125:8080/restream/restream/135345
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TENNIS_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT TENNIS  720P
-http://31.43.191.125:8080/restream/restream/135346
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TOP_EVENT_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT TOP EVENT  720P
-http://31.43.191.125:8080/restream/restream/135347
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_1_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 1  720P
-http://31.43.191.125:8080/restream/restream/135348
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_10_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 10  720P
-http://31.43.191.125:8080/restream/restream/135349
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_2_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 2  720P
-http://31.43.191.125:8080/restream/restream/135350
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_3_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 3  720P
-http://31.43.191.125:8080/restream/restream/135351
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_4_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 4  720P
-http://31.43.191.125:8080/restream/restream/135352
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 5  720P
-http://31.43.191.125:8080/restream/restream/135353
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_6_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 6  720P
-http://31.43.191.125:8080/restream/restream/135354
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_7_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 7  720P
-http://31.43.191.125:8080/restream/restream/135355
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_8_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 8  720P
-http://31.43.191.125:8080/restream/restream/135356
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_720P.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 9  720P
-http://31.43.191.125:8080/restream/restream/135357
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_F1_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT F1
-http://31.43.191.125:8080/restream/restream/135435
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT GOLF
-http://31.43.191.125:8080/restream/restream/135436
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_MIX.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT MIX
-http://31.43.191.125:8080/restream/restream/135437
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_NEWS_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT NEWS
-http://31.43.191.125:8080/restream/restream/135438
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_PREMIER_LEAGUE.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT PREMIER LEAGUE
-http://31.43.191.125:8080/restream/restream/135439
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TENNIS_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT TENNIS
-http://31.43.191.125:8080/restream/restream/135440
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TOP_EVENT.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT TOP EVENT
-http://31.43.191.125:8080/restream/restream/135441
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_1_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 1
-http://31.43.191.125:8080/restream/restream/135442
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_2_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 2
-http://31.43.191.125:8080/restream/restream/135443
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_3_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 3
-http://31.43.191.125:8080/restream/restream/135444
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_4_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 4
-http://31.43.191.125:8080/restream/restream/135445
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 5
-http://31.43.191.125:8080/restream/restream/135446
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_6_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 6
-http://31.43.191.125:8080/restream/restream/135447
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_7_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 7
-http://31.43.191.125:8080/restream/restream/135448
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_8_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 8
-http://31.43.191.125:8080/restream/restream/135449
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 9
-http://31.43.191.125:8080/restream/restream/135450
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_10_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT 10
-http://31.43.191.125:8080/restream/restream/135451
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_1_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 1
-http://31.43.191.125:8080/restream/restream/135452
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_2_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 2
-http://31.43.191.125:8080/restream/restream/135453
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_3_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 3
-http://31.43.191.125:8080/restream/restream/135454
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_4_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 4
-http://31.43.191.125:8080/restream/restream/135455
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_5_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 5
-http://31.43.191.125:8080/restream/restream/135456
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_6_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 6
-http://31.43.191.125:8080/restream/restream/135457
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_7_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 7
-http://31.43.191.125:8080/restream/restream/135458
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_8_HD.png" group-title="🇬🇧 UK Sports",DE: SKY SPORT AUSTRIA 8
-http://31.43.191.125:8080/restream/restream/135459
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-24-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 24 FHD
-http://31.43.191.125:8080/restream/restream/136475
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT ARENA FHD
-http://31.43.191.125:8080/restream/restream/136478
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-calcio-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT CALCIO FHD
-http://31.43.191.125:8080/restream/restream/136481
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-f1-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT F1 FHD
-http://31.43.191.125:8080/restream/restream/136484
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT GOLF HD" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Golf.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT GOLF HD
-http://31.43.191.125:8080/restream/restream/136487
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT MOTOGP FHD
-http://31.43.191.125:8080/restream/restream/136488
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT NBA FHD
-http://31.43.191.125:8080/restream/restream/136491
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS FHD" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT TENNIS FHD
-http://31.43.191.125:8080/restream/restream/136494
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-uno-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT UNO FHD
-http://31.43.191.125:8080/restream/restream/136497
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MAX FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-football-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT MAX FHD
-http://31.43.191.125:8080/restream/restream/136507
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 251 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 251 FHD
-http://31.43.191.125:8080/restream/restream/136517
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 252 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 252 FHD
-http://31.43.191.125:8080/restream/restream/136520
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 253 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 253 FHD
-http://31.43.191.125:8080/restream/restream/136523
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 254 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 254 FHD
-http://31.43.191.125:8080/restream/restream/136526
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 255 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 255 FHD
-http://31.43.191.125:8080/restream/restream/136529
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 256 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 256 FHD
-http://31.43.191.125:8080/restream/restream/136532
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 257 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 257 FHD
-http://31.43.191.125:8080/restream/restream/136535
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 258 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 258 FHD
-http://31.43.191.125:8080/restream/restream/136538
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 259 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 259 FHD
-http://31.43.191.125:8080/restream/restream/136541
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 260 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 260 FHD
-http://31.43.191.125:8080/restream/restream/136544
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 261 FHD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="🇬🇧 UK Sports",IT: SKY SPORT 261 FHD
-http://31.43.191.125:8080/restream/restream/136547
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP PREMIER SPORTS 2" tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="🇬🇧 UK Sports",UK: VIP PREMIER SPORTS 2
-http://31.43.191.125:8080/restream/restream/1695
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 1 FHD" tvg-logo="" group-title="🇬🇧 UK Sports",UK: Premier Sports 1 FHD
-http://31.43.191.125:8080/restream/restream/146478
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2 FHD" tvg-logo="" group-title="🇬🇧 UK Sports",UK: Premier Sports 2 FHD
-http://31.43.191.125:8080/restream/restream/146479
-#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORT 5 VIP [Live During Events Only]" tvg-logo="" group-title="🇬🇧 UK Sports",NZ: SKY SPORT 5 VIP [Live During Events Only]
-http://31.43.191.125:8080/restream/restream/146817
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2 (Match Time)" tvg-logo="" group-title="🇬🇧 UK Sports",UK: Premier Sports 2 (Match Time)
-http://31.43.191.125:8080/restream/restream/147054
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Tennis" tvg-logo="" group-title="🇬🇧 UK Sports",UK: Sky Sport Tennis
-http://31.43.191.125:8080/restream/restream/147075
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA" tvg-logo="https://docdog.top/logo/countries/austria/skysport1.png" group-title="🇬🇧 UK Sports",AT: SKY SPORT AUSTRIA
-http://31.43.191.125:8080/restream/restream/4027
-#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 1" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport1.png" group-title="🇬🇧 UK Sports",NZ: VIP SKY SPORT 1
-http://31.43.191.125:8080/restream/restream/56471
-#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 2" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport2.png" group-title="🇬🇧 UK Sports",NZ: VIP SKY SPORT 2
-http://31.43.191.125:8080/restream/restream/56472
-#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 4" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport4.png" group-title="🇬🇧 UK Sports",NZ: VIP SKY SPORT 4
-http://31.43.191.125:8080/restream/restream/56474
-#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 6" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport6.png" group-title="🇬🇧 UK Sports",NZ: VIP SKY SPORT 6
-http://31.43.191.125:8080/restream/restream/56476
-#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 7" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport7.png" group-title="🇬🇧 UK Sports",NZ: VIP SKY SPORT 7
-http://31.43.191.125:8080/restream/restream/56477
-#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 9" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport9.png" group-title="🇬🇧 UK Sports",NZ: VIP SKY SPORT 9
-http://31.43.191.125:8080/restream/restream/56479
-#EXTINF:-1 tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="🇬🇧 UK Sports",Sky Sport F1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg" group-title="🇬🇧 UK Sports",Sky Sport Tennis
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORT24.png" group-title="🇬🇧 UK Sports",Sky Sport 24
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136941.ts
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sport Arena" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTARENA.png" group-title="🇬🇧 UK Sports",Sky Sport Arena
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136935.ts
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport Basket" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTNBA.png" group-title="🇬🇧 UK Sports",Sky Sport Basket
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136916.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sport Golf" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTGOLF.png" group-title="🇬🇧 UK Sports",Sky Sport Golf
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136938.ts
-#EXTINF:-1 tvg-id="SkySportLegend.it" tvg-name="Sky Sport Legend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Legend_-_Logo_2025.svg/1024px-Sky_Sport_Legend_-_Logo_2025.svg.png" group-title="🇬🇧 UK Sports",Sky Sport Legend
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/285791.ts
-#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Max" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTMAX.png" group-title="🇬🇧 UK Sports",Sky Sport Max
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136924.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sport Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="🇬🇧 UK Sports",Sky Sport Mix
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/285792.ts
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTMOTOGP.png" group-title="🇬🇧 UK Sports",Sky Sport MotoGP
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136919.ts
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTUNO.png" group-title="🇬🇧 UK Sports",Sky Sport Uno
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136910.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport.it" tvg-name="|IT|  SKY SPORT BAR DUE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="🇬🇧 UK Sports",|IT|  SKY SPORT BAR DUE ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661355
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport.it" tvg-name="|IT|  SKY SPORT BAR DUE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="🇬🇧 UK Sports",|IT|  SKY SPORT BAR DUE ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661356
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmotogp.it" tvg-name="|IT| SKY SPORT  MMOTOGP ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTMOTOGP.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT  MMOTOGP ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661336
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsArena.uk" tvg-name="|IT| SKY SPORT ARENA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTARENA.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT ARENA ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661347
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsArena.uk" tvg-name="|IT| SKY SPORT ARENA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTARENA.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT ARENA ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661348
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIO1HD.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT CALCIO  ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661330
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIOINFO.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT CALCIO ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661332
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsF1.uk" tvg-name="|IT| SKY SPORT F1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHDF1.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT F1 ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661342
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsF1.uk" tvg-name="|IT| SKY SPORT F1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHDF1.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT F1 ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661343
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportfootball.it" tvg-name="|IT| SKY SPORT FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT FOOT ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661339
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="|IT| SKY SPORT FOOTBALL ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/SKYSPORTS.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT FOOTBALL ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661340
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsFootball.uk" tvg-name="|IT| SKY SPORT FOOTBALL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT FOOTBALL ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661341
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmax.it" tvg-name="|IT| SKY SPORT MAX FULL ᴴᴰ" tvg-logo="" group-title="🇬🇧 UK Sports",|IT| SKY SPORT MAX FULL ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661359
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmax.it" tvg-name="|IT| SKY SPORT MAX ᴴᴰ" tvg-logo="" group-title="🇬🇧 UK Sports",|IT| SKY SPORT MAX ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661358
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MotoGP.pt" tvg-name="|IT| SKY SPORT MOTO GP ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTMOTOGP.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT MOTO GP ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661338
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportnba.it" tvg-name="|IT| SKY SPORT NBA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTNBA.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT NBA ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661333
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportnba.it" tvg-name="|IT| SKY SPORT NBA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTNBA.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT NBA ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661335
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsTennis.uk" tvg-name="|IT| SKY SPORT TENNIS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SUPERTENNIS.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT TENNIS ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661345
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsTennis.uk" tvg-name="|IT| SKY SPORT TENNIS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SUPERTENNIS.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT TENNIS ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661346
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportuno.it" tvg-name="|IT| SKY SPORT UNO 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5020.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT UNO 1ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661328
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportuno.it" tvg-name="|IT| SKY SPORT UNO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5020.png" group-title="🇬🇧 UK Sports",|IT| SKY SPORT UNO ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661349
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsGolf.uk" tvg-name="|IT|SKY SPORT GOLF ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTGOLF.png" group-title="🇬🇧 UK Sports",|IT|SKY SPORT GOLF ᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661352
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsGolf.uk" tvg-name="|IT|SKY SPORT GOLF ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTGOLF.png" group-title="🇬🇧 UK Sports",|IT|SKY SPORT GOLF ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661353
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/premiersports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🇬🇧 UK Sports",UK - PREMIER SPORTS 1 HD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17271
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/premiersports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🇬🇧 UK Sports",UK - PREMIER SPORTS 2 HD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/266684
 #EXTINF:0 tvg-rec="0" group-title="🇺🇸 USA Sports",Tennis Channel US
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19136/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="🇺🇸 USA Sports",Fox Sports HD AR
