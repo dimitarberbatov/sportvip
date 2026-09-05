@@ -229,27 +229,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348325
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS UK",UK - BEIN SPORTS 2 ENGLISH HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/575400
 
-#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 1" tvg-logo="https:/docdog.top/logo/countries/beinsports1.png" group-title="⚽ beIN SPORTS AU",AU: BEIN SPORTS 1
-http://31.43.191.125:8080/restream/restream/25009
-#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 2" tvg-logo="https:/docdog.top/logo/countries/beinsports2.png" group-title="⚽ beIN SPORTS AU",AU: BEIN SPORTS 2
-http://31.43.191.125:8080/restream/restream/25024
-#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 3" tvg-logo="https:/docdog.top/logo/countries/beinsports3.png" group-title="⚽ beIN SPORTS AU",AU: BEIN SPORTS 3
-http://31.43.191.125:8080/restream/restream/25025
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS AU",AU - BEIN SPORTS 1 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78137
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS AU",AU - BEIN SPORTS 2 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78138
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="⚽ beIN SPORTS AU",AU - BEIN SPORTS 3 UHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BEIN SPORT 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="⚽ beIN SPORTS ID",IDS: BEIN SPORT 2 VIP
-http://31.43.191.125:8080/restream/restream/34337
-
-#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 3 VIP" tvg-logo="https://docdog.top/logo/countries/philippines/beinsports3.png" group-title="⚽ beIN SPORTS PH",PH: BEIN SPORTS 3 VIP
-http://31.43.191.125:8080/restream/restream/34734
-#EXTINF:-1 tvg-id="" tvg-name="PH: BEIN SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/philippines/beinsports1.png" group-title="⚽ beIN SPORTS PH",PH: BEIN SPORTS 1 VIP
-http://31.43.191.125:8080/restream/restream/34735
-
 # ==========================================
 # GROUP: SKY SPORTS & UK SPORTS (Chia gọn theo nhóm)
 # ==========================================
@@ -275,23 +254,6 @@ http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577996&extensi
 #EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Football",UK - SKY SPORTS FOOTBALL UHD
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577995&extension=ts&play_token=LeP2SXOvX3
 
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports F1",Sky Sports F1 HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9283/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports F1",Sky Sports F1 HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7342/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="🏆 Sky Sports F1",UK: VIP SKY SPORTS F1
-http://31.43.191.125:8080/restream/restream/1668
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="" group-title="🏆 Sky Sports F1",UK: Sky Sports F1 FHD
-http://31.43.191.125:8080/restream/restream/146470
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",|4K| SKY SPORTS F1 UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284555&extension=ts&play_token=fUl319g17I
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",F1 - SKY SPORTS F1
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134458&extension=ts&play_token=VkoVflhsUg
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",F1 - SKY SPORTS FORMULA 1 HD IT
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134462&extension=ts&play_token=QDPh4r7ogD
-#EXTINF:-1 tvg-logo="https://go4.pw/FORMULA/ff1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports F1",##### F1 - SKY SPORTS F1 #####
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457
-
 #EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Main Event",Sky Sports Main Event HD 50 UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9308/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Main Event",Sky Sports Main Event HD UK
@@ -304,118 +266,6 @@ http://31.43.191.125:8080/restream/restream/146475
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577997&extension=ts&play_token=LVvfKbOefG
 #EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Main Event",UK - SKY SPORTS MAIN EVENT FHD
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577978&extension=ts&play_token=JCujxj0RE7
-
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Plus",Sky Sports+ HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9248/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="🏆 Sky Sports Plus",UK: Sky Sports+ FHD
-http://31.43.191.125:8080/restream/restream/146466
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ HD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973139
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 1 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974989
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 3 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974991
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 4 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974992
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 5 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974993
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 6 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974994
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 7 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974995
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 8 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974996
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 9 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974997
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 10 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974998
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.3s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 11 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974999
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.8s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 12 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975000
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 13 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975001
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Plus",UK - SKY SPORTS+ 14 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975002
-
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Tennis HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6546/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Racing HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9335/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports News HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9314/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Cricket HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9258/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Action HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9155/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Mix HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9310/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="🏆 Sky Sports Other",Sky Sports Golf HD 50 UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/9293/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Mix HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7339/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Action HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7340/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Racing HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7341/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Cricket HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7343/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="🏆 Sky Sports Other",Sky Sports Golf HD UK
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/7344/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS GOLF" tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS GOLF
-http://31.43.191.125:8080/restream/restream/1669
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MIX" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS MIX
-http://31.43.191.125:8080/restream/restream/1670
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS CRICKET" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS CRICKET
-http://31.43.191.125:8080/restream/restream/1673
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ARENA" tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS ARENA
-http://31.43.191.125:8080/restream/restream/1674
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS ACTION
-http://31.43.191.125:8080/restream/restream/1675
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS RACING
-http://31.43.191.125:8080/restream/restream/1676
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP Sky Sports NFL" tvg-logo="" group-title="🏆 Sky Sports Other",UK: VIP Sky Sports NFL
-http://31.43.191.125:8080/restream/restream/1678
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/uk/skysportsnews.png" group-title="🏆 Sky Sports Other",UK: VIP SKY SPORTS NEWS
-http://31.43.191.125:8080/restream/restream/1696
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Action FHD
-http://31.43.191.125:8080/restream/restream/146467
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Arena FHD
-http://31.43.191.125:8080/restream/restream/146468
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Tennis FHD
-http://31.43.191.125:8080/restream/restream/146469
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Golf FHD
-http://31.43.191.125:8080/restream/restream/146471
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Cricket FHD
-http://31.43.191.125:8080/restream/restream/146474
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Racing FHD
-http://31.43.191.125:8080/restream/restream/146476
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports Mix FHD
-http://31.43.191.125:8080/restream/restream/146477
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports News FHD
-http://31.43.191.125:8080/restream/restream/146486
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HQ HD" tvg-logo="" group-title="🏆 Sky Sports Other",UK: Sky Sports News HQ HD
-http://31.43.191.125:8080/restream/restream/147024
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",|4K| SKY SPORTS DARTS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284554&extension=ts&play_token=4jTWwFwM4O
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS NEWS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577994&extension=ts&play_token=pMt9JNiRn8
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS CRICKET UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577991&extension=ts&play_token=y2o6GyaOuF
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS DARTS FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577972&extension=ts&play_token=dP42AJxl2E
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS GOLF FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577971&extension=ts&play_token=ckhdw2Cb4m
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS MIX FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577970&extension=ts&play_token=8cXoQ9cDys
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS RACING FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577968&extension=ts&play_token=3svkuTdXHG
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",UK - SKY SPORTS ARENA
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577944&extension=ts&play_token=zRxRIxHC3V
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="4.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="🏆 Sky Sports Other",SBO 3: SKY SPORTS BOX OFFICE SD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=677309&extension=ts&play_token=tZBDCJzMDQ
 
 #EXTINF:0 tvg-rec="0" group-title="🏆 TNT Sports",TNT Sports 4 HD UK
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/19054/index.m3u8
