@@ -2215,7 +2215,7 @@ http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/32000/index.m3u8
 
 =============================
 
-#EXTINF:-1 data-source="Manual" group-title="🌐 International Sports" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="8a4953b152ce41bf62065f2d247e0616",FOX ONE (VPN)
+#EXTINF:-1 data-source="Manual" group-title="🌐 International Sports" tvg-logo="https://i.ibb.co/ccwZ7DLJ/fox-one-logo.jpg" tvg-uid="8a4953b152ce41bf62065f2d247e0616",FOX ONE (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
