@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTM3U url-tvg="https://tv.ngoibut-cachmang.workers.dev/epgc.xml"#EXTINF:-1 tvg-id="update_info" tvg-name="(469) Updated 23:00 19/09/2026" tvg-logo="https://raw.githubusercontent.com/shoshjvn/ENC/refs/heads/main/update.png" group-title="👌 UPDATE",(469) Updated 23:00 19/09/2026
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 https://raw.githubusercontent.com/shoshjvn/ENC/refs/heads/main/update.mp4#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title="🌟VTV & VTVCab🌟" catchup="default" catchup-days="2" catchup-source="https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd?startTime=${start}&stopTime=${stop}" tvg-shift="0",VTV1
