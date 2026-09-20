@@ -645,7 +645,7 @@ https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
 
 =============================================
 
-#EXTINF:-1 tvg-id="hbohd" group-title="🌟Quốc Tế🌟 tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="🌟Quốc Tế🌟" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -751,7 +751,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF:-1 tvg-id="" group-title="🌟Quốc Tế🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png", Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
+#EXTINF:-1 tvg-id="" group-title="🌟Quốc Tế🌟" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌟Quốc Tế🌟" tvg-logo="https://vnepg.site/logos/143.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
