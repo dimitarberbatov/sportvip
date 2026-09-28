@@ -87,7 +87,7 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwi
 
 
 
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.ibb.co.com/B5Z1p7cq/IMG-20250820-082537.png" group-title="SPORTS",FUBO SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B5Z1p7cq/IMG-20250820-082537.png" group-title="SPORTS",FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
