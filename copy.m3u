@@ -320,29 +320,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 
-
 #EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD SPORTS", N SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
-EXTINF:-1 tvg-id="unite8sports1" tvg-name="UNITE 8 SPORTS 1 HD" tvg-logo="https://i.ibb.co/HLG7MBqW/images-4.jpg" group-title="WORLD SPORTS",UNITE 8 SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1532856.m3u8
-
-#EXTINF:-1 tvg-id="unite8sports2" tvg-name="UNITE 8 SPORTS 2 HD" tvg-logo="https://i.ibb.co/HLG7MBqW/images-4.jpg" group-title="WORLD SPORTS",UNITE 8 SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/155990.m3u8
-
-#EXTINF:-1 tvg-id="502" group-title="WORLD SPORTS" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 Sports 1 
-http://line.turbohdtv.com:80/live/8TPNW6/4MW25P/373312.m3u8
-
-=========in sport==={{
-EXTINF:-1 tvg-id="unite8sports1" tvg-name="UNITE 8 SPORTS 1 HD" tvg-logo="https://i.ibb.co/HLG7MBqW/images-4.jpg" group-title="WORLD SPORTS",UNITE 8 SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1532856.m3u8
-
-#EXTINF:-1 tvg-id="unite8sports2" tvg-name="UNITE 8 SPORTS 2 HD" tvg-logo="https://i.ibb.co/HLG7MBqW/images-4.jpg" group-title="WORLD SPORTS",UNITE 8 SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/155990.m3u8
-
-#EXTINF:-1 tvg-id="502" group-title="WORLD SPORTS" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 Sports 1 
-http://line.turbohdtv.com:80/live/8TPNW6/4MW25P/373312.m3u8
 
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
