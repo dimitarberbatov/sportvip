@@ -436,14 +436,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://cdn-adp.mediaflow.workers.dev/dash-fta/mewatch2.mpd
-#EXTINF:-1 tvg-id="516" tvg-name="adptv-516" tvg-logo="https://i.ibb.co.com/N6ngPP9g/m-live-.png" group-title="SPORTS",Mewatch 5
+
 
 #EXTINF:-1 tvg-id="517" tvg-name="adptv-517" tvg-logo="https://i.ibb.co.com/5XB5S3gJ/m-live-.png" group-title="SPORTS",Mewatch 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#EXTINF:-1 tvg-id="518" tvg-name="adptv-518" tvg-logo="https://i.ibb.co.com/1GzdWrTf/m-live-.png" group-title="SPORTS",Mewatch 7
-
-
 
 #EXTINF:-1 tvg-id="521" tvg-name="adptv-521" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/k2h5DGgz/MUTV.png",MUTV
 https://adp-mcu.mediaflow.workers.dev/dash/kingmcu.mpd
@@ -501,7 +497,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 
 #EXTINF:-1 tvg-id="581" tvg-name="adptv-581" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/WWLnMqhR/mlive2.png",Mewatch 2
-#EXTINF:-1 tvg-id="582" tvg-name="adptv-582" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/4ngRF9bg/mlive5.png",Mewatch 5
+
 #EXTINF:-1 tvg-id="583" tvg-name="adptv-583" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/d47JmpGb/mlive6.png",Mewatch 6
 
 =====================================================
