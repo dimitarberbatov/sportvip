@@ -376,7 +376,7 @@ https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-32777
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrBvhqfCkpZXPDUi9Kd2wIHljK8a7fn9dsp79W2uFwu31FH8K5IL3wCvg&s=10", EUROSPORT 1 🇸🇰
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrBvhqfCkpZXPDUi9Kd2wIHljK8a7fn9dsp79W2uFwu31FH8K5IL3wCvg&s=10" group-title="Sports", EUROSPORT 1 🇸🇰
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -940,25 +940,7 @@ https://sports.semar.my.id/unifi/unifi1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="570" tvg-name="adptv-570" tvg-logo="https://i.ibb.co.com/MyQ7xJBV/kaloopy.png" group-title="MUSIC",Kaloopy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/b991c1fc-29f6-4250-a83f-27da56919649/2.m3u8
-#EXTINF:-1 tvg-id="571" tvg-name="adptv-571" tvg-logo="https://i.ibb.co.com/QF7ZjsM7/maleo.png" group-title="MUSIC",Maleo Channel
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://adptv17.github.io/nissa/off.m3u8
-#EXTINF:-1 tvg-id="572" tvg-name="adptv-572" tvg-logo="https://i.ibb.co.com/xKhrrGdr/mictv.png" group-title="MUSIC",Mic TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://adptv17.github.io/nissa/off.m3u8
-#EXTINF:-1 tvg-id="573" tvg-name="adptv-573" tvg-logo="https://i.ibb.co.com/9kp5xyDf/musik-hits.png" group-title="MUSIC",MTV Hits
-http://iptv.prosto.tv:7000/ch126/video.m3u8
-#EXTINF:-1 tvg-id="574" tvg-name="adptv-574" tvg-logo="https://i.ibb.co.com/5gjk44Fx/music-indonesia.png" group-title="MUSIC",Musik Indonesia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
-#EXTINF:-1 tvg-id="575" tvg-name="adptv-575" tvg-logo="https://i.ibb.co.com/tpWrNFrC/pop-musik.png" group-title="MUSIC",Pop Musik
+
 #EXTINF:-1 tvg-id="576" tvg-name="adptv-576" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/PZGHmBrR/psn.png", PSN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
