@@ -1105,9 +1105,6 @@ https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
-#EXTINF:-1 tvg-id="6a68c751-be66-4fb2-a22c-4101f3330a4c" tvg-name="wedotv Sports" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ad19cdWedo_Sports_IVP_LAND_1280x720.jpg" group-title="🌟SPORTS XTREAM🌟",Wedotv Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 1 (Slovakia)" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/e4fe336a-7d86-440b-bd59-f0741a9774cc" group-title="🌟SPORTS VIP🌟", NOVA SPORT 1 🇸🇰 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
